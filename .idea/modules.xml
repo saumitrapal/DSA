@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinearSearch/LinearSearch.iml" filepath="$PROJECT_DIR$/LinearSearch/LinearSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Method/Method.iml" filepath="$PROJECT_DIR$/Method/Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditiion and loops/conditiion and loops.iml" filepath="$PROJECT_DIR$/conditiion and loops/conditiion and loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-java-program/my-java-program.iml" filepath="$PROJECT_DIR$/my-java-program/my-java-program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switch/switch.iml" filepath="$PROJECT_DIR$/switch/switch.iml" />
+    </modules>
+  </component>
+</project>
